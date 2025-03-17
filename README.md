@@ -13,7 +13,7 @@ The structure of the project:
 * model: contains python notebook for model building
 * image_scrapping: python code for the model building
 * server: contains the flask server and UI
-* images_dataset: dataset used for the model training 
+* images_dataset: link for the image dataset used for the model training
 
 Technologies used in the project:
 * Python
