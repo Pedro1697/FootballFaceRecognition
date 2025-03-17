@@ -2,7 +2,7 @@
 
 ![ui](https://github.com/user-attachments/assets/411a8d90-c3c7-48ba-9a9c-b83ae8fa20b6)
 
-In the following data science and machine learning project, we classify 5 fooball players. We restrict classification to only 5 players:
+In the following data science and machine learning project, we classify fooball players. We restrict classification to only 5 players:
   1. Cristiano Ronaldo
   2. Lionel Messi
   3. Neymar Jr
