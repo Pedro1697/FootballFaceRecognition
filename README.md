@@ -11,7 +11,7 @@ In the following data science and machine learning project, we classify fooball 
 
 The structure of the project:
 * model: contains python notebook for model building
-* image_scrapping: python code for the model building
+* image_scrapping: python code for the data crawling
 * server: contains the flask server and UI
 * images_dataset: link for the image dataset used for the model training
 
